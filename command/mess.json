@@ -1,0 +1,13 @@
+{
+    "wait": "Bentar tod lagi proses",
+    "error": {
+        "Iv": "Ngasih link yang bener dikit lu,fungsi apa link apa🥴",
+        "api": "Api lagi eror tod pake fitur lain aja"
+    },
+    "OnlyGrup": "Khusus Grup njink jangan ngadi lu",
+    "OnlyPM": "Khusus chat pribadi tod",
+    "GrupAdmin": "yahahaha gabisa yah? lu kan bukan admin😂",
+    "BotAdmin": "Adminin lah,gw mau kok ngelaksanakan fitur yang lu mau",
+    "OnlyOwner": "Gabisa yah? Lu kan bukan owner😂",
+    "OnlyPrem": "Gabisa yah? Lu kan user gratisan😂"
+}
